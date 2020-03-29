@@ -1,0 +1,52 @@
+npm init -y
+npm install knex
+npx knex init
+npx knex migrate:latest
+npm install mysql
+npm install dotenv
+npm install --save-dev nodemon
+
+Flaticon
+
+
+crypto
+
+npm init -y
+touch index.js
+touch Dockerfile
+npm install express
+docker-compose -v
+docker build -t brc/dockernode .
+docker run -p 3000:3000 -d brc/dockernode
+npm install nodemon
+docker-compose up
+docker run --name docker-mysql -e MYSQL_ROOT_PASSWORD=root -p 3306:3306 -d mysql
+npm install mysql
+npm install sqlite3
+
+npm install nodemon -D
+npm install axios
+
+npm expo-cli
+expo init mobile
+
+
+docker ps (verifica os processos)
+docker stop <numero do processo>
+docker-compose.yml
+
+
+npx create-react-app frontend
+npx knex migrate:make recreate_ongs
+npx knex migrate:make recreate_incidents
+npm install react-icons
+npm install react-router-dom
+expo install expo-constants
+
+
+
+gist.github.com/diego3g
+
+email
+expo install expo-mail-composer
+npm install intl
